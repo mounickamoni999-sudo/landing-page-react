@@ -1,8 +1,8 @@
 import "./Footer.css";
 
-import share from "../../assets/shareIcon.png";
-import mail from "../../assets/mailIcon.png";
-import send from "../../assets/sendbutton.png";
+import share from "../../assets/shareIcon.webp";
+import mail from "../../assets/mailIcon.webp";
+import send from "../../assets/sendbutton.webp";
 
 function Footer() {
   return (

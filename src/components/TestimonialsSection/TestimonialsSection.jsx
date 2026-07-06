@@ -1,9 +1,9 @@
 import "./TestimonialsSection.css";
 
-import user1 from "../../assets/sarah charan.png";
-import user2 from "../../assets/david.png";
-import quote from "../../assets/Quote.png";
-import stars from "../../assets/stars.png";
+import user1 from "../../assets/sarah charan.webp";
+import user2 from "../../assets/david.webp";
+import quote from "../../assets/Quote.webp";
+import stars from "../../assets/stars.webp";
 
 function TestimonialsSection() {
   return (

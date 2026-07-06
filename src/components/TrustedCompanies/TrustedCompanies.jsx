@@ -1,14 +1,14 @@
 import "./TrustedCompanies.css";
 
-import google from "../../assets/google.png";
-import deepseek from "../../assets/deepSeek.png";
-import gradio from "../../assets/gradio.png";
-import copilot from "../../assets/copilot.png";
-import gemini from "../../assets/gemini.png";
-import logo from "../../assets/logo.png";
+import google from "../../assets/google.webp";
+import deepseek from "../../assets/deepSeek.webp";
+import gradio from "../../assets/gradio.webp";
+import copilot from "../../assets/copilot.webp";
+import gemini from "../../assets/gemini.webp";
+import logo from "../../assets/logo.webp";
 
-import leftArrow from "../../assets/proicons_arrow-left.png";
-import rightArrow from "../../assets/proicons_arrow-right.png";
+import leftArrow from "../../assets/proicons_arrow-left.webp";
+import rightArrow from "../../assets/proicons_arrow-right.webp";
 
 function TrustedCompanies() {
   return (

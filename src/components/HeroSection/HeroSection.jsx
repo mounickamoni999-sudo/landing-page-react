@@ -1,10 +1,10 @@
 import "./HeroSection.css";
-import heroImage from "../../assets/Characters.png";
-import avatar1 from "./../../assets/1.png";
-// import avatar2 from "../../assets/sarah charan.png";
-// import avatar3 from "../../assets/Background+Border.png";
+import heroImage from "../../assets/Characters.webp";
+import avatar1 from "./../../assets/1.webp";
+// import avatar2 from "../../assets/sarah charan.webp";
+// import avatar3 from "../../assets/Background+Border.webp";
 
-import usersBadge from "../../assets/Container.png";
+import usersBadge from "../../assets/Container.webp";
 
 function HeroSection() {
   return (
@@ -51,7 +51,7 @@ function HeroSection() {
 
     <img src={avatar3} alt="avatar 3" className="avatar-img" />
 
-  </div> */}
+//   </div> */}
 
   {/* <p className="user-text">
     Join <strong>50K+</strong> professionals hired this month

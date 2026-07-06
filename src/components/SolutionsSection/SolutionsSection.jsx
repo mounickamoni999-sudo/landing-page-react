@@ -1,10 +1,10 @@
 import "./SolutionsSection.css";
 
-import candidate from "../../assets/candidates.png";
-import employer from "../../assets/employee.png";
-import institution from "../../assets/institutions.png";
-import arrow from "../../assets/arrow-right.png";
-import arrowRed from "../../assets/arrow.png";
+import candidate from "../../assets/candidates.webp";
+import employer from "../../assets/employee.webp";
+import institution from "../../assets/institutions.webp";
+import arrow from "../../assets/arrow-right.webp";
+import arrowRed from "../../assets/arrow.webp";
 
 function SolutionsSection() {
   return (
