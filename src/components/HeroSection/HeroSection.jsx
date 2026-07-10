@@ -8,11 +8,11 @@ import usersBadge from "../../assets/Container.webp";
 
 function HeroSection() {
   return (
-    <section className="hero">
+    <section className="landing-page-hero">
 
-      <div className="hero-left">
+      <div className="landing-page-hero-left">
 
-        <span className="badge">
+        <span className="landing-page-badge">
           ● NOW POWERED BY AI 2.0
         </span>
 
@@ -28,17 +28,17 @@ function HeroSection() {
           through AI-driven matching.
         </p>
 
-        <div className="users">
+        <div className="landing-page-users">
 
-            <div className="users">
-  <img
-    src={usersBadge}
-    alt="Users"
-    className="users-badge"
-  />
+            <div className="landing-page-users-badge">
+   <img
+            src={usersBadge}
+            alt="Users Badge"
+            className="landing-page-users-badge"
+          />
 
 
-  <p className="user-text">
+  <p className="landing-page-user-text">
     Join <strong>50k+</strong> professionals hired this month
   </p>
 </div>
@@ -60,7 +60,7 @@ function HeroSection() {
 </div>
       </div>
 
-      <div className="hero-right">
+      <div className="landing-page-hero-right">
 
         <img
           src={heroImage}
